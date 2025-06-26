@@ -1,0 +1,10 @@
+# Install dependencies
+npm install
+
+# Core dependencies:
+react
+typescript
+tailwindcss
+@heroicons/react
+axios
+react-webcam
